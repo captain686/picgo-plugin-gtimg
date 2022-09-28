@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-gtimg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "picgo-plugin-gtimg",
   "main": "src/index.js",
   "publishConfig": {
